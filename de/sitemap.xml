@@ -2,175 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/info/</loc>
+    <loc>https://vschwerdt.github.io/web_wedding_2/de/info/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/info/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/info/"
+                href="https://vschwerdt.github.io/web_wedding_2/info/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/info/"
+                href="https://vschwerdt.github.io/web_wedding_2/de/info/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/categories/</loc>
+    <loc>https://vschwerdt.github.io/web_wedding_2/de/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/categories/"
+                href="https://vschwerdt.github.io/web_wedding_2/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/categories/"
+                href="https://vschwerdt.github.io/web_wedding_2/de/categories/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/info/faq/</loc>
+    <loc>https://vschwerdt.github.io/web_wedding_2/de/info/faq/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/info/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/info/faq/"
+                href="https://vschwerdt.github.io/web_wedding_2/info/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/info/faq/"
+                href="https://vschwerdt.github.io/web_wedding_2/de/info/faq/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/contact/</loc>
+    <loc>https://vschwerdt.github.io/web_wedding_2/de/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/contact/"
+                href="https://vschwerdt.github.io/web_wedding_2/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/contact/"
+                href="https://vschwerdt.github.io/web_wedding_2/de/contact/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/info/locations/</loc>
+    <loc>https://vschwerdt.github.io/web_wedding_2/de/info/schedule/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/info/locations/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/info/locations/"
+                href="https://vschwerdt.github.io/web_wedding_2/info/schedule/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/info/locations/"
+                href="https://vschwerdt.github.io/web_wedding_2/de/info/schedule/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/info/schedule/</loc>
+    <loc>https://vschwerdt.github.io/web_wedding_2/de/info/locations/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/info/schedule/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/info/schedule/"
+                href="https://vschwerdt.github.io/web_wedding_2/info/locations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/info/schedule/"
+                href="https://vschwerdt.github.io/web_wedding_2/de/info/locations/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/tags/</loc>
+    <loc>https://vschwerdt.github.io/web_wedding_2/de/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/tags/"
+                href="https://vschwerdt.github.io/web_wedding_2/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/tags/"
+                href="https://vschwerdt.github.io/web_wedding_2/de/tags/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/</loc>
+    <loc>https://vschwerdt.github.io/web_wedding_2/de/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/"
+                href="https://vschwerdt.github.io/web_wedding_2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/"
+                href="https://vschwerdt.github.io/web_wedding_2/de/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/info/sleep/</loc>
+    <loc>https://vschwerdt.github.io/web_wedding_2/de/info/sleep/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/info/sleep/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/info/sleep/"
+                href="https://vschwerdt.github.io/web_wedding_2/info/sleep/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/info/sleep/"
+                href="https://vschwerdt.github.io/web_wedding_2/de/info/sleep/"
                 />
   </url>
 </urlset>
